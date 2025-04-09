@@ -30,7 +30,6 @@ pip install matplotlib
 pip install seaborn
 pip install scikit-learn
 
-You can install these libraries using pip:
 
 
 ## Data Source
